@@ -90,9 +90,9 @@ submissions:
     checkpoint 2 sha:
     checkpoint 3 sha: 
   Charissa Lawrence:
-    repo:
+    repo:https://github.com/JaggedLaw/Contact_Manager.git
     checkpoint 1 sha:
-    checkpoint 2 sha:
+    checkpoint 2 sha:309029789821cbbcb4246d6f86aa80c1dd39c93
     checkpoint 3 sha: 
   Robbie Lane: 
     repo: https://github.com/robbielane/contact_manager
