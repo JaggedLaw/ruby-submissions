@@ -6,7 +6,7 @@ Please open a PR with a link to your Gist with the SQL queries you used to work 
 * Allan Blair:
 * Brennan Holtzclaw:
 * Brian Rippeto:
-* Charissa Lawrenc:
+* Charissa Lawrenc: https://gist.github.com/JaggedLaw/c56d9f69e2adcb4550a9
 * Chelsea Johnson: https://gist.github.com/cheljoh/259977c70be641b7e8f2
 * David Whitaker: https://gist.github.com/damwhit/d5a7c5bb7b226cc4d195
 * Erinna Chen: https://gist.github.com/erinnachen/328ad593a73f9dfc7f84
