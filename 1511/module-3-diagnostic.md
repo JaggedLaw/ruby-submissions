@@ -6,7 +6,7 @@
 * Allan Blair:
 * Brennan Holtzclaw:
 * Brian Rippeto:
-* Charissa Lawrence:
+* Charissa Lawrence: https://github.com/JaggedLaw/alt-fuel-service.git
 * Chelsea Johnson:
 * David Whitaker:
 * Erinna Chen:
